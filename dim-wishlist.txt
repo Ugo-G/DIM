@@ -1,0 +1,10 @@
+// No Hesitation (PvE)
+//notes:PvE-
+dimwishlist:item=1801007332&perks=,2980589453,2298656195
+
+// The Call (PvE)
+//notes:PvE-
+dimwishlist:item=3947966653&perks=,1556840489,2109543898
+dimwishlist:item=3947966653&perks=,1556840489,4049631843
+dimwishlist:item=3947966653&perks=,3523296417,1546637391
+
