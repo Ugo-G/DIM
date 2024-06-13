@@ -40,5 +40,69 @@ dimwishlist:item=2821677368&perks=,1523832109,1354429876
 //notes:PvE-
 dimwishlist:item=3232203524&perks=,1126264488,1451849462
 
+// Veiled Threat (PvE)
+//notes:PvE-
+dimwishlist:item=3685470415&perks=,880644845,124408337
+dimwishlist:item=3685470415&perks=,4071163871,3708227201
 
+// Lost Signal (PvE)
+//notes:PvE-
+dimwishlist:item=1197771438&perks=,4071163871,563069569
+dimwishlist:item=1197771438&perks=,880644845,3523296417
+
+// Sightline Survey (PvE)
+//notes:PvE-
+dimwishlist:item=2350330520&perks=,3828510309,2173046394
+
+// Corrasion (PvE)
+//notes:PvE-
+dimwishlist:item=2126178511&perks=,684456054,2173046394
+dimwishlist:item=2126178511&perks=,2213355989,2896038713
+
+// Timeworn Wayfarer (PvE)
+//notes:PvE-
+dimwishlist:item=1058098236&perks=,3017780555,4293542123
+
+// Chronophage (PvE)
+//notes:PvE-
+dimwishlist:item=1886840007&perks=,776531651,2048641572
+
+// Speleologist (PvE)
+//notes:PvE-
+dimwishlist:item=412251536&perks=,968510818,557221067
+
+// Faith-Keeper (PvE)
+//notes:PvE-
+dimwishlist:item=4195186942&perks=,3300816228,3194351027
+dimwishlist:item=4195186942&perks=,960810156,3927722942
+
+// Ill Omen (PvE)
+//notes:PvE-
+dimwishlist:item=3794274730&perks=,3108830275,3708227201
+dimwishlist:item=3794274730&perks=,243981275,3650930298
+
+// Patron of Lost Causes (PvE)
+//notes:PvE-
+dimwishlist:item=2249996761&perks=,880644845,3891536761
+
+// Perfect Paradox (PvE)
+//notes:PvE-
+dimwishlist:item=1298672084&perks=,1126264488,1451849462
+dimwishlist:item=1298672084&perks=,691659142,4082225868
+
+// Breachlight (PvE)
+//notes:PvE-
+dimwishlist:item=2328923181&perks=,3523296417,11612903
+dimwishlist:item=2328923181&perks=,691659142,4082225868
+dimwishlist:item=2328923181&perks=,3523296417,831391274
+dimwishlist:item=2328923181&perks=,691659142,831391274
+
+// Martyr's Retribution (PvE)
+//notes:PvE-
+dimwishlist:item=2584830733&perks=,968510818,4293542123
+dimwishlist:item=2584830733&perks=,3523296417,880644845
+
+// Line in the Sand (PvE)
+//notes:PvE-
+dimwishlist:item=2450049485&perks=,3523296417,3078487919
 
