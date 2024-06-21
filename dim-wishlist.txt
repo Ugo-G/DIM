@@ -84,6 +84,8 @@ dimwishlist:item=3794274730&perks=,243981275,3650930298
 // Patron of Lost Causes (PvE)
 //notes:PvE-
 dimwishlist:item=2249996761&perks=,880644845,3891536761
+dimwishlist:item=2249996761&perks=,247725512,1546637391
+
 
 // Perfect Paradox (PvE)
 //notes:PvE-
