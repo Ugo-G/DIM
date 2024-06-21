@@ -107,6 +107,9 @@ dimwishlist:item=2584830733&perks=,3523296417,880644845
 // Line in the Sand (PvE)
 //notes:PvE-
 dimwishlist:item=2450049485&perks=,3523296417,3078487919
+dimwishlist:item=2450049485&perks=,2284787283,3078487919
+
+
 
 // Origin Story (PvE)
 //notes:PvE-
