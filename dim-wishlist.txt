@@ -122,5 +122,8 @@ dimwishlist:item=2826850739&perks=,3619207468,365154968
 dimwishlist:item=2826850739&perks=,1359896290,365154968
 dimwishlist:item=2826850739&perks=,2387244414,365154968
 
-
+// RELATIVISM (PvE)
+//notes:PvE-
+dimwishlist:item=2809120022&perks=,3751917996,3751917992
+dimwishlist:item=2809120022&perks=,1476923953,3751917992
 
