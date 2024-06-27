@@ -129,7 +129,7 @@ dimwishlist:item=2809120022&perks=,1476923953,3751917992
 
 // Scintillation (PvE)
 //notes:god-PvE-boss-avec-trash
-dimwishlist:item=2591257541&perks=,968510818,3744057135
+dimwishlist:item=2591257541&perks=,968510818,3078487919
 
 // Scintillation (PvE)
 //notes:god-PvE-boss-sans-trash
