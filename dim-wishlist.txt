@@ -131,6 +131,18 @@ dimwishlist:item=2809120022&perks=,1476923953,3751917992
 //notes:god-PvE-boss
 dimwishlist:item=2591257541&perks=,968510818,3744057135
 
+// Scintillation (PvE)
+//notes:god-PvE-trash
+dimwishlist:item=2591257541&perks=,968510818,3708227201
+
+// Scintillation (PvE)
+//notes:PvE-
+dimwishlist:item=2591257541&perks=,3418782618,3708227201
+dimwishlist:item=2591257541&perks=,3418782618,3078487919
+dimwishlist:item=2591257541&perks=,3300816228,3708227201
+dimwishlist:item=2591257541&perks=,3300816228,3078487919
+
+
 
 
 
